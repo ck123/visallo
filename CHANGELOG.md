@@ -2,6 +2,10 @@
 #v2.2.0
 ==================
 
+#v2.1.1
+==================
+  * Pass vertex to shouldDisable handler for vertex context menu extensions
+
 #v2.1
 ==================
 
